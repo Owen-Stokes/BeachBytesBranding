@@ -1,10 +1,10 @@
 # Beach Bytes — Brand Assets
 
-Hosted at **https://beachbytescoding.github.io/Branding/brand-repo/**
+Hosted at **https://owen-stokes.github.io/BeachBytesBranding/brand-repo/**
 Browse everything visually at the link above (`brand-repo/index.html`).
 
 Link to files by path, e.g.
-`https://beachbytescoding.github.io/Branding/brand-repo/gmail/bb-signature-white.gif`
+`https://owen-stokes.github.io/BeachBytesBranding/brand-repo/gmail/bb-signature-white.gif`
 
 ## Files
 
