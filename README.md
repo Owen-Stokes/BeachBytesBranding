@@ -17,11 +17,18 @@ Link to files by path, e.g.
 | `brand-repo/facebook/` | Cover photos 1640 × 624 (navy, paper) and circle-safe profile pictures 1080 × 1080 |
 | `brand-repo/instagram/` | Profile pictures 1080 × 1080, mark only (white, navy) |
 | `brand-repo/windows/` | `bb-icon.ico` desktop shortcut icon (16–256 px) and account pictures (448 and 1080 px, navy and white) |
-| `brand-repo/physical assets/` | Print-ready PDFs with ⅛″ bleed and crop marks: `bb-postcard-5x7.pdf` (5 × 7 in, 2-sided) and `Lawn Signs.pdf` (24 × 18 in: free-trial lawn sign, sandwich board front and back) |
+| `brand-repo/google-business/` | Google Business Profile images: logo, cover, product tiles (4:3 and square), posts, review card and review QR. See `google-business/GBP_README.md` |
+| `brand-repo/physical assets/` | Print-ready PDFs: `bb-postcard-5x7.pdf` (5 × 7 in, 2-sided, ⅛″ bleed, crop marks) · `bb-lawn-signs.pdf` (24 × 18 in: free-trial lawn sign, sandwich board front and back, ⅛″ bleed, crop marks) · `bb-vinyl-banner-152x61cm.pdf` (152 × 61 cm trim, 2.5 cm bleed, 100 dpi, no marks; hem with 6 grommets) · `bb-business-card-owen.pdf` (3.5 × 2 in, 2-sided, ⅛″ bleed, crop marks, 300 dpi) |
 
 Root: `Beach Bytes — Camp Design & Build Plan.docx` (planning doc, not a brand asset).
 
 Use SVG wherever possible. Don't redraw, recolour, stretch or rotate the mark.
+
+## Drop-in wording
+
+"Builder Drop-in" is the product name, but classes are a scheduled weekly slot, not walk-in.
+Describe it as casual, project-led building: "Casual game building", "Your own designs", "Game projects", "Weekly class".
+Avoid "come anytime", "self-guided" or "your pace" for this product. ("Join anytime" refers to enrolment and is fine.)
 
 ## Colour
 
@@ -75,6 +82,14 @@ Clear space: at least the height of the lip on all sides. Minimum size: 24 px ta
 
 ## Print
 
-Trim + ⅛″ (0.125 in) bleed on all sides, crop marks outside the bleed, 300 dpi (postcard) / 150 dpi (signs).
+| Piece | Trim | Bleed | Resolution |
+|---|---|---|---|
+| Postcard | 5 × 7 in | ⅛″ + crop marks | 300 dpi |
+| Business card | 3.5 × 2 in | ⅛″ + crop marks | 300 dpi |
+| Lawn / sandwich signs | 24 × 18 in | ⅛″ + crop marks | 150 dpi |
+| Vinyl banner | 152 × 61 cm | 2.5 cm, no marks | 100 dpi |
+
+Vinyl banner: hemmed, 6 grommets (4 corners + top and bottom centre). Keep content 5 cm in from the trim.
+Business card email: beachbytes@owenstokes.com.
 Contact block: beachbytes.ca · 1-833-321-CODE (2633) · 1767 Queen St E, Toronto.
 Postcard discount code: **BEACHES20** (20% off first purchase, new families).
