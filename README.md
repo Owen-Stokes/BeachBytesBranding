@@ -4,7 +4,7 @@ Hosted at **https://owen-stokes.github.io/BeachBytesBranding/brand-repo/**
 Browse everything visually at the link above (`brand-repo/index.html`).
 
 Link to files by path, e.g.
-`https://owen-stokes.github.io/BeachBytesBranding/brand-repo/gmail/bb-signature-white.gif`
+`https://owen-stokes.github.io/BeachBytesBranding/brand-repo/gmail/bb-signature-white-canadian.gif`
 
 ## Files
 
@@ -12,13 +12,15 @@ Link to files by path, e.g.
 |---|---|
 | `brand-repo/svg/` | Master mark (`bb-mark.svg`) plus white, black, mono, flat, ripples and icon-tile variants |
 | `brand-repo/png/` | Logos: full lockup, small, small mark, stacked lockup `bb-lockup-stacked*.png` (transparent, white, navy, 600 px). Favicons `BeachBytes-favicon-256.png` and `-32.png` |
-| `brand-repo/gmail/` | Animated email-signature GIFs: `bb-signature-*` 395 × 84 px, `bb-signature-tagline-*` 484 × 113 px. `white` for light backgrounds, `navy` for dark |
-| `brand-repo/square/` | Square Online header logo (animated GIF 800 × 180 on navy, transparent PNG), service badges 1200 × 1200 (membership, drop-in, drop-in level, trial) and the "Stay in the loop" tile |
-| `brand-repo/facebook/` | Cover photos 1640 × 624 (navy, paper) and circle-safe profile pictures 1080 × 1080 |
-| `brand-repo/instagram/` | Profile pictures 1080 × 1080, mark only (white, navy) |
+| `brand-repo/gmail/` | Animated email-signature GIFs: `bb-signature-*-canadian.gif` 395 × 84 px, `bb-signature-tagline-*-canadian.gif` 484 × 113 px (`white` for light backgrounds, `navy` for dark). Social icons used in the signature: `bb-icon-facebook.png`, `bb-icon-instagram.png`, `bb-icon-review.png`, `bb-icon-web.png`. Copy-paste page: `signature.html`. Pre-Canadian GIFs kept without the suffix |
+| `brand-repo/square/` | Header logo: `bb-header-logo-animated-canadian.gif` (live, 800 × 180 navy), `-canadian-corner.gif` (alt), `bb-header-logo-canadian.png` (transparent 1600 × 360). Badges 1200 × 1200: membership, drop-in, drop-in level, trial, holiday camp, March Break camp, Explorer camp, Developer camp (each + `-early-bird`), Incubator coming soon (navy, orange, pale, sand). "Stay in the loop" tile. Section backgrounds: `bb-hero-bg-sweep`, `bb-hero-bg-twin`, `bb-seam-bg-header` + `bb-seam-bg-hero` |
+| `brand-repo/facebook/` | Cover 1640 × 624 `bb-facebook-cover-navy-canadian.png`; circle-safe profiles 1080 × 1080 `bb-facebook-profile-navy-canadian.png` and `-white-canadian.png`. Post: `bb-FB-signage-191.jpg` |
+| `brand-repo/instagram/` | Profiles 1080 × 1080 `bb-instagram-profile-navy-canadian.png` and `bb-instagram-profile-canadian.png` (white). Post: `bb-IG-signage-4x5.jpg` |
 | `brand-repo/windows/` | `bb-icon.ico` desktop shortcut icon (16–256 px) and account pictures (448 and 1080 px, navy and white) |
-| `brand-repo/google-business/` | Google Business Profile images: logo, cover, product tiles (4:3 and square), posts, review card and review QR. See `google-business/GBP_README.md` |
-| `brand-repo/physical assets/` | Print-ready PDFs: `bb-postcard-5x7.pdf` (5 × 7 in, 2-sided, ⅛″ bleed, crop marks) · `bb-lawn-signs.pdf` (24 × 18 in: free-trial lawn sign, sandwich board front and back, ⅛″ bleed, crop marks) · `bb-vinyl-banner-152x61cm.pdf` (152 × 61 cm trim, 2.5 cm bleed, 100 dpi, no marks; hem with 6 grommets) · `bb-business-card-owen.pdf` (3.5 × 2 in, 2-sided, ⅛″ bleed, crop marks, 300 dpi) |
+| `brand-repo/google-business/` | Google Business Profile images: logo and cover (`-canadian`), product tiles, posts and review card. See `google-business/GBP_README.md` |
+| `brand-repo/physical assets/` | Print-ready PDFs (Canadian-owned versions): `bb-business-card-owen.pdf` (3.5 × 2 in, 2-sided) · `bb-postcard-5x7.pdf` (5 × 7 in, 2-sided) · `bb-street-signs-all.pdf` (24 × 18 in: lawn sign, sandwich board front and back) · `bb-vinyl-banner-152x61cm.pdf` (152 × 61 cm, not yet updated). Signage JPGs for social posts |
+
+Files without `-canadian` are the earlier versions, kept so old links don't break.
 
 Root: `Beach Bytes — Camp Design & Build Plan.docx` (planning doc, not a brand asset).
 
@@ -29,6 +31,13 @@ Use SVG wherever possible. Don't redraw, recolour, stretch or rotate the mark.
 "Builder Drop-in" is the product name, but classes are a scheduled weekly slot, not walk-in.
 Describe it as casual, project-led building: "Casual game building", "Your own designs", "Game projects", "Weekly class".
 Avoid "come anytime", "self-guided" or "your pace" for this product. ("Join anytime" refers to enrolment and is fine.)
+
+## Canadian owned
+
+Beach Bytes is Canadian owned, and the old brand was bought by a US firm, so we say so. Leaf: the official flag maple leaf, red `#D52B1E`, on a white circle.
+- Digital (social, Google, Square header, Gmail): leaf in a white circle on the mark.
+- Print: "Proudly Canadian owned" white pill (business card back says "Canadian owned").
+- Square item badges: no leaf.
 
 ## Colour
 
@@ -62,7 +71,7 @@ Single-colour fallbacks: Lake `#2AA6C8`, Sand `#FFAE4F`.
 | Body text | Slate `#4A5A66` |
 
 Site font: **Quicksand**.
-Header logo: `square/bb-header-logo-animated.gif` (800 × 180, navy) or `square/bb-header-logo.png` (transparent).
+Header logo: `square/bb-header-logo-animated-canadian.gif` (800 × 180, navy) or `square/bb-header-logo-canadian.png` (transparent).
 
 ## Type
 
