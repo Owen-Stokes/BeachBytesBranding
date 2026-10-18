@@ -9,17 +9,21 @@ All files are PNG, sRGB, under 5 MB, which is within Google's upload limits.
 
 | File | Size | Use |
 |---|---|---|
-| `bb-gbp-logo-navy.png` | 1080 × 1080 | **Primary.** Profile → Photos → Logo. Navy background, flat mark. |
-| `bb-gbp-logo-white.png` | 1080 × 1080 | Alternate, for a light look. Full-colour mark on white. |
+| `bb-gbp-logo-navy-canadian.png` | 1080 × 1080 | **Primary.** Profile → Photos → Logo. Navy background, flat mark, maple leaf in a white corner circle. |
+| `bb-gbp-logo-white-canadian.png` | 1080 × 1080 | Alternate, for a light look. Full-colour mark on white, maple leaf in a corner circle. |
+| `bb-gbp-logo-navy.png` | 1080 × 1080 | Previous navy logo, with no leaf. |
+| `bb-gbp-logo-white.png` | 1080 × 1080 | Previous white logo, with no leaf. |
 
-Mark only, with no wordmark: Google shows the logo as a small circle beside the business name, where text would be unreadable. The mark sits inside the circle crop.
+Mark only, with no wordmark: Google shows the logo as a small circle beside the business name, where text would be unreadable. The mark and the leaf circle both sit inside the circle crop.
 
 ## Cover photo
 
 | File | Size | Use |
 |---|---|---|
-| `bb-gbp-cover-photo.png` | 1920 × 1080 | **Primary.** Profile → Photos → Cover. Student photo with the navy panel. |
-| `bb-gbp-cover-navy.png` | 1920 × 1080 | Alternate. Logo, tagline and "Afterschool Coding & STEM Classes · Ages 7+" on navy. |
+| `bb-gbp-cover-photo-canadian.png` | 1920 × 1080 | **Primary.** Profile → Photos → Cover. Student photo with the navy panel and the "Proudly Canadian owned" pill. |
+| `bb-gbp-cover-navy-canadian.png` | 1920 × 1080 | Alternate. Logo, tagline, "Afterschool Coding & STEM Classes · Ages 7+" and the "Proudly Canadian owned" pill on navy. |
+| `bb-gbp-cover-photo.png` | 1920 × 1080 | Previous photo cover, with no pill. |
+| `bb-gbp-cover-navy.png` | 1920 × 1080 | Previous navy cover, with no pill. |
 
 Google crops the cover differently on phone, desktop and Maps, so key content stays in the centre. Google may still choose another photo to show first. Uploading recent interior and class photos makes the cover more likely to stick.
 
@@ -61,6 +65,10 @@ For Profile → Add update. Post regularly (every 1–2 weeks) to keep the profi
 
 QR code goes to: https://g.page/r/CRafYICaINQzEBM/review (the Beach Bytes Google review form).
 Test it with a phone camera before printing.
+
+## Canadian owned
+
+Beach Bytes is Canadian owned, and the logo and covers show it with the official flag maple leaf (#D52B1E). Facebook and Instagram use the same treatment, so all three profiles match. Use the `-canadian` versions everywhere. The older files are kept only as backups.
 
 ## Profile details these images match
 
